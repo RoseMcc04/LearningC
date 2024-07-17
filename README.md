@@ -13,12 +13,12 @@ The following topics are discussed in this repository: Variables, Operators, Con
 
 When ready to compile, type the following command: 
 
-'''bash
+'''shell
 gcc <file-name>.c -o <file-name>
 '''
 
 If no errors show, then type the following comnand: 
 
-'''bash
+'''shell
 gcc ./<file-name>
 '''
