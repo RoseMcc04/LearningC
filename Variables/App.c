@@ -27,4 +27,11 @@ int main()
 
     // We can print out a char like this...
     printf("%c\n", charA);
+
+    // We can also declare constants...
+
+    const int newConst = 4;
+    const float newConst2 = 16.5;
+    const double newConst3 = 77.15;
+    const char newConst4 = 'S';
 }
