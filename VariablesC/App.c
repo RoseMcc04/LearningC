@@ -34,4 +34,15 @@ int main()
     const float newConst2 = 16.5;
     const double newConst3 = 77.15;
     const char newConst4 = 'S';
+
+    // Casting in C
+
+    // Widening Conversion
+
+    int x2 = 6;
+    double x1 = (double) x2;
+
+    // Narrowing Conversion
+
+    int x3 = (int) x1;
 }
